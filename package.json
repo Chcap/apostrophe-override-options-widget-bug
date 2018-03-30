@@ -1,0 +1,19 @@
+{
+  "name": "apostrophe-override-options-widget-bug",
+  "version": "2.0.0",
+  "description": "Minimal apostrophe-override-options-widget-bug",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "P'unk Avenue",
+  "license": "MIT",
+  "dependencies": {
+    "apostrophe": "^2.51.0",
+    "apostrophe-override-options": "2.2.0"
+  }
+}
